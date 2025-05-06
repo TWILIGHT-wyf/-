@@ -13,7 +13,7 @@
 - 前端：基于 Vue.js 框架，使用 Element UI 组件库构建用户界面
 - 后端：使用 Flask 框架提供 RESTful API 服务
 - 数据库：Microsoft SQL Server 数据库存储系统数据
-- 认证：JWT 令牌认证机制保障系统安全
+
 
 ## 功能特点
 
