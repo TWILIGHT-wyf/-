@@ -50,9 +50,7 @@
 ### 后端
 
 - Flask：Python Web 框架
-- SQLAlchemy：ORM 框架
-- PyJWT：JWT 认证
-- Redis：缓存
+
 
 ### 数据库
 
@@ -65,7 +63,7 @@
 - Python 3.8+
 - Node.js 12+
 - Microsoft SQL Server
-- Redis (可选)
+
 
 ### 安装步骤
 
