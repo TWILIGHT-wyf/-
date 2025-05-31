@@ -112,10 +112,4 @@ python sqlweb/run_wyf.py
 - Orders_wyf：订单信息
 - OrderDetails_wyf：订单详情
 
-## 贡献指南
 
-欢迎提交 Issue 或 Pull Request 来完善本项目。请确保代码符合项目的编码规范和设计风格。
-
-## 开发者
-
- (TWILIGHT-wyf)
